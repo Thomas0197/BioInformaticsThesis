@@ -1,1 +1,2 @@
-# Graphs created using the differential methylation calculated for the 15 comparisons 
+# READ ME
+Graphs created using the differential methylation calculated for the 15 comparisons 
