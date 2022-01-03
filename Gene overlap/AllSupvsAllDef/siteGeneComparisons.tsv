@@ -1,0 +1,2 @@
+chr	start	end	strand	pvalue	qvalue	meth.diff	ID	gene	distance
+chr11	84835344	84835344	+	4.41323371493067e-28	9.88453827039151e-25	46.1645896003438	uc.20	Dhrs11	(-6381)
