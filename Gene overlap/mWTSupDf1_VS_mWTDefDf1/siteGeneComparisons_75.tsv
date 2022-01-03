@@ -1,0 +1,2 @@
+chr	start	end	strand	pvalue	qvalue	meth.diff	ID	gene	distance
+"chr2"	76899649	76899649	"+"	1.96152754635759e-24	2.09988568035088e-21	77.1040879422879	uc.2	Ttn	(+80533)
